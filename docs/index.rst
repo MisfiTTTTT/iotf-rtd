@@ -2,7 +2,7 @@ Introduction
 ============
 
 Welcome to the documentation/reference material for IBM's IoT Platform 
-service.  If you are looking for tutorials you can find them on developerWorks Recipes_.
+service.  If you are looking for tutorials you can find them on developerWorks Recipes_. Putting a deliberate change in this to make sure it blocks correctly!
 
 .. _Recipes: https://developer.ibm.com/recipes/
 
