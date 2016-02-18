@@ -24,6 +24,7 @@ Introduction
 .. toctree::
     :maxdepth: 1
 
+    index
     intro/getting_started
     reference/concepts
     reference/device_model
